@@ -19,15 +19,18 @@ I'm an undergraduate student at the **University of Illinois Urbana-Champaign** 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity & Stats
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joshuachen6&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joshuachen6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://metrics.lecoq.io/joshuachen6?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FChicago&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joshuachen6&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=joshuachen6&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
