@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Joshua+Chen;CS+%2B+Bio-engineering+at+UIUC;Driven+by+challenge+and+hard+work" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://www.jcsoftware.org">🌐 Website</a> •
+    <a href="https://me.jcsoftware.org">🌐 Website</a> •
     <a href="https://github.com/joshuachen6">📂 Projects</a>
   </p>
 </div>
