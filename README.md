@@ -23,7 +23,7 @@ I'm an undergraduate student at the **University of Illinois Urbana-Champaign** 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuachen6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuachen6&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuachen6&layout=compact&theme=tokyonight&hide_border=false" />
 </div>
 
 ---
@@ -61,5 +61,5 @@ I'm an undergraduate student at the **University of Illinois Urbana-Champaign** 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuachen6&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=joshuachen6&theme=tokyonight" alt="GitHub Streak" />
 </div>
