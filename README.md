@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Joshua+Chen;CS+%2B+Bio-engineering+at+UIUC;Driven+by+challenges+and+innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Joshua+Chen;CS+%2B+Bio-engineering+at+UIUC;Driven+by+challenge+and+hard+work" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.jcsoftware.org">🌐 Website</a> •
@@ -51,7 +51,7 @@ I'm an undergraduate student at the **University of Illinois Urbana-Champaign** 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&omega;logoColor=white" />
 </details>
 
 ---
@@ -64,9 +64,3 @@ I'm an undergraduate student at the **University of Illinois Urbana-Champaign** 
 - 🧪 **Simulations** - Game simulations and search algorithms
 - ☁️ **Back-end** - Scalable systems and API design
 - 📐 **Architecture** - Elegant software design patterns
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=joshuachen6&theme=tokyonight" alt="GitHub Streak" />
-</div>
