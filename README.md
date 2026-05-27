@@ -34,9 +34,8 @@ I'm an undergraduate student at the **University of Illinois Urbana-Champaign** 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuachen6&theme=tokyonight&hide_border=true&bg_color=1a1b27&layout=compact&exclude_repo=&count_private=true&hide=" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuachen6&theme=tokyonight&hide_border=true&bg_color=1a1b27&layout=compact&langs_count=10" alt="Top Languages" />
 </div>
-
 ---
 
 ### 🛠️ Tech Stack
